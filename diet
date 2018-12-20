@@ -1,0 +1,92 @@
+<html><head>
+  <title>populair phones.nl</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 70px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+ {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+}
+</style>
+</head>
+<body bgcolor="#3F3F3F">
+<div>
+  <ul>
+    <li><a target="_self" href="#Home">Home</a></li>
+    <li><a target="_self" href="#Iphone6">Iphone 6</a></li>
+    <li><a target="_self" href="#Iphone 7">Iphone 7</a></li>
+    <li><a target="_self" href="#Iphone 8">Iphone 8</a></li>
+    <li><a target="_self" href="#Iphone x">Iphone x</a></li>
+    <li><a target="_self" href="#Iphone xr">Iphone xr</a></li>
+    <li><a target="_self" href="#Iphone xs">Iphone xs</a></li>
+    <li style="float:right"><a href="#about">About</a></li>
+  </ul>
+ </div>
+  <h1><font size="5"><center><b><font color="white">
+    Op deze site vind je alle informatie die je zoekt
+    <br>
+   over alle verschillende iphones die er zijn,
+    <br>
+    zodat je de beste keuze kan maken voor welke telefoon je wilt halen.
+    </font></b></center></font></h1>
+  <div class="row">
+     <div class="column">
+       <img src="ron-mcclenny-692810-unsplash.jpg" alt="picture phone" style="width:100%">
+     </div>
+     <div class="column">
+       <img src="youssef-sarhan-470786-unsplash.jpg" alt="picture phone" style="width:100%">
+     </div>
+     <div class="column">
+       <img src="tyler-lastovich-720384-unsplash.jpg" alt="picture phone" style="width:100%">
+     </div>
+</div>
+                                                                                               
+                                                                                                         
+
+
+</body></html>
